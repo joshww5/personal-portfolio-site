@@ -1,0 +1,109 @@
+.maincontent{
+    background-color: #fef6e4;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 120px;
+}
+
+.pic{
+    border-radius: 200px;
+}
+
+.my-navbar {
+  background-color: white;
+}
+
+body{
+    background-color: #f8f9fa;
+}
+
+.info{
+    margin: 50px;
+}
+
+h1{
+    color: #ff8800;
+    size: 100px;
+    font-weight: bolder;
+}
+
+.p1{
+    font-size: 24px;
+    font-weight: 500;
+}
+
+h2{
+    font-weight: bold;
+}
+
+.footer-custom{
+    background-color: white;
+    color: white;
+}
+
+.nav-link{
+    font-weight: bold;
+}
+
+.footer-personal{
+    font-weight: bold;
+    
+}
+
+.AboutMe{
+    
+    width: 600px;
+    margin-left: 50px;
+}
+
+.info{
+    font-size: 20px;
+    
+}
+
+.flex{
+    display: flex;
+    gap: 200px;
+}
+
+.jel{
+    font-size: 20px;
+    background-color: bisque;
+}
+
+h3{
+    font-weight: bolder;
+    
+}
+
+.skills{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.hello{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.me{
+    font-size: 20px;
+}
+
+.project-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+.jojo{
+    margin-left: 50px;
+    margin-top: 50px;
+}
